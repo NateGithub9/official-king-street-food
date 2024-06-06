@@ -18,4 +18,4 @@ J'ai décidé de créer une page html par liens (menu et photos)
     - photos
     - contact
 
-Du coup j'ai copié la navbar sur chaque page.
+Le code de la nav bar se retrouve sur chaque page. Le code de la page "photo1" est une copie de la page "photo".
