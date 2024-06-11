@@ -1,21 +1,18 @@
-# official-king-street-food
+# Bootstrap website
 
-Le concept de mon site bootstrap est celui d'un site pour un restaurant qui s'aventure dans la restauration mobile. 
-
-"King Street Food"
+Mon site est celui d'un restaurant s'aventurant dans un concept "food truck". 
 
 Les images que j'ai utilisé sont libre de droit.
 
-La page d'acceuil:
+["King Street Food"](https://nategithub9.github.io/official-king-street-food/)
 
-[Bootstrap website](https://nategithub9.github.io/official-king-street-food/)
+J'ai décidé de créer une page html par lien.
 
-J'ai décidé de créer une page html par liens (menu et photos)
+    - Page d'acceuil
+    - Menu
+    - Notre histoire
+    - Emplacements
+    - Photos
+    - Contact
 
-    - page d'acceuil
-    - menu
-    - emplacements
-    - photos
-    - contact
 
-Le code de la nav bar se retrouve sur chaque page. Le code de la page "photo1" est une copie de la page "photo".
